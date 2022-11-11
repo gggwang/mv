@@ -227,7 +227,7 @@
     "searchable": "1",
     "quickSearch": "1",
     "filterable": "1",
-    "ext": "85b2986381a134ba3ebbaf25ae8138e7#http://api.lengniuge.eu.org/Bili.json"
+    "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/lengniuge/api/raw/branch/master/Bili.json"
   },
   {
     "key": "AList",
@@ -235,7 +235,7 @@
     "type": 3,
     "api": "csp_AList",
     "searchable": 1,
-    "ext": "http://api.lengniuge.eu.org/fm_alist.json"
+    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/fm_alist.json"
   },
   {
     "key": "Tbook",
@@ -275,7 +275,7 @@
     "searchable": "1",
     "quickSearch": "1",
     "filterable": "1",
-    "ext": "http://api.lengniuge.eu.org/token.txt"
+    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt"
   },
   {
     "key": "Gitcafe",
@@ -285,7 +285,7 @@
     "searchable": "1",
     "quickSearch": "1",
     "filterable": "1",
-    "ext": "http://api.lengniuge.eu.org/token.txt"
+    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt"
   },
   {
     "key": "YiSo",
@@ -295,7 +295,7 @@
     "searchable": "1",
     "quickSearch": "1",
     "filterable": "1",
-    "ext": "http://api.lengniuge.eu.org/token.txt"
+    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt"
   },
   {
     "key": "AliPS",
@@ -305,7 +305,7 @@
     "searchable": "1",
     "quickSearch": "1",
     "filterable": "1",
-    "ext": "http://api.lengniuge.eu.org/token.txt"
+    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt"
   },
   {
     "key": "push_agent",
@@ -315,7 +315,7 @@
     "searchable": "1",
     "quickSearch": "1",
     "filterable": "1",
-    "ext": "http://api.lengniuge.eu.org/token.txt"
+    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt"
   }],
 //-------------------------------------------------------------电视直播--------------------------------------------------------------------\\
   "lives": [{
@@ -563,5 +563,5 @@
   "ads": ["mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "mc.usihnbcq.cn", "mg.g1mm3d.cn", "mscs.svaeuzh.cn", "cnzz.hhttm.top", "tp.vinuxhome.com", "cnzz.mmstat.com", "www.baihuillq.com", "s23.cnzz.com", "z3.cnzz.com", "c.cnzz.com", "stj.v1vo.top", "z12.cnzz.com", "img.mosflower.cn", "tips.gamevvip.com", "ehwe.yhdtns.com", "xdn.cqqc3.com", "www.jixunkyy.cn", "sp.chemacid.cn", "hm.baidu.com", "s9.cnzz.com", "z6.cnzz.com", "um.cavuc.com", "mav.mavuz.com", "wofwk.aoidf3.com", "z5.cnzz.com", "xc.hubeijieshikj.cn", "tj.tianwenhu.com", "xg.gars57.cn", "k.jinxiuzhilv.com", "cdn.bootcss.com", "ppl.xunzhuo123.com", "xomk.jiangjunmh.top", "img.xunzhuo123.com", "z1.cnzz.com", "s13.cnzz.com", "xg.huataisangao.cn", "z7.cnzz.com", "xg.huataisangao.cn", "z2.cnzz.com", "s96.cnzz.com", "q11.cnzz.com", "thy.dacedsfa.cn", "xg.whsbpw.cn", "s19.cnzz.com", "z8.cnzz.com", "s4.cnzz.com", "f5w.as12df.top", "ae01.alicdn.com", "www.92424.cn", "k.wudejia.com", "vivovip.mmszxc.top", "qiu.xixiqiu.com", "cdnjs.hnfenxun.com", "cms.qdwght.com"],
 //-------------------------------------------------------------jar壁纸--------------------------------------------------------------------\\
   "wallpaper": "https://bing.hecady.com/api/image",
-  "spider": "http://api.lengniuge.eu.org/cs.jar;md5;793c2ad457fb87aa5ad8bfb4a4eac5be"
+  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/cs.jar;md5;793c2ad457fb87aa5ad8bfb4a4eac5be"
 }
