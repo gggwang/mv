@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "http://api.lengniuge.eu.org/top98.jar",
+  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/top98.jar",
   "lives": [
     {
       "group": "redirect",
