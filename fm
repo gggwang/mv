@@ -1,6 +1,15 @@
-﻿ //-------------------------------------------------------------Sp和Xp---------------------------------------------------------------\\
+﻿//-------------------------------------------------------------Sp和Xp---------------------------------------------------------------\\
 {
   "sites": [{
+    "key": "T4",
+    "name": "豆瓣",
+    "type": 4,
+    "api": "https://t4.secan.icu/vod?sites=all&timeout=7",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+  },
+ {
     "key": "Bili_fm",
     "name": "哔哩",
     "type": 3,
@@ -14,7 +23,7 @@
     "type": 3,
     "api": "csp_Bili",
     "searchable": 1,
-    "ext": https://agit.ai/lengniuge/api/raw/branch/master/fm_jiaoyu.json"
+    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/fm_jiaoyu.json"
   },
   {
     "key": "csp_xBPQ_皮皮泡",
@@ -132,7 +141,7 @@
   }]
   },
   {
-    "name": "m3u",
+    "name": "直播",
     "type": 0,
     "url": "https://agit.ai/lengniuge/api/raw/branch/master/live.m3u",
     "epg": "https://epg.112114.xyz/?ch={name}",
@@ -366,5 +375,5 @@
   }],
   //-------------------------------------------------------------jar壁纸--------------------------------------------------------------------\\
   "wallpaper": "https://tuapi.eees.cc/api.php?category=biying&type=302",
-  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/custom_spider.jar;md5;md5;50312162df32af94104285e780c504fe"
+  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/custom_spider.jar;md5;50312162df32af94104285e780c504fe"
 }
