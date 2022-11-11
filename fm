@@ -128,7 +128,7 @@
     "group": "redirect",
     "channels": [{
     "name": "redirect",
-    "urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2FwaS5sZW5nbml1Z2UuZXUub3JnL2xpdmUudHh0"]
+    "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xlbmduaXVnZS9hcGkvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]
   }]
   },
   {
