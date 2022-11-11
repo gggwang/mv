@@ -4,7 +4,7 @@
     "key": "T4",
     "name": "豆瓣",
     "type": 4,
-    "api": "https://t4.secan.icu/vod?sites=all&ali_token=http://api.lengniuge.eu.org/token.txt&timeout=7",
+    "api": "https://t4.secan.icu/vod?sites=all&timeout=7",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
