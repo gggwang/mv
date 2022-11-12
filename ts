@@ -4,7 +4,7 @@
     "key": "T4",
     "name": "豆瓣",
     "type": 4,
-    "api": "https://t4.secan.icu/vod?sites=all&timeout=7",
+    "api": "http://top.fuqizhishi.com/vod",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
