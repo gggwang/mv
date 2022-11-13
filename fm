@@ -375,5 +375,5 @@
   }],
   //-------------------------------------------------------------jar壁纸--------------------------------------------------------------------\\
   "wallpaper": "https://tuapi.eees.cc/api.php?category=biying&type=302",
-  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/custom_spider.jar;md5;50312162df32af94104285e780c504fe"
+  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/custom_spider.jar;md5;e1ce4a638a2dbef8dd09c6ce07ba7da1"
 }
