@@ -136,9 +136,13 @@
     "type": 0,
     "url": "https://agit.ai/lengniuge/api/raw/branch/master/live.m3u",
     "epg": "https://epg.112114.xyz/?ch={name}",
-    "logo": "",
-    "ua": ""
-  }],
+   },
+    {
+    "name": "MKV",
+    "type": 0,
+    "url": "https://agit.ai/lengniuge/api/raw/branch/master/mkv.m3u",
+    "epg": "https://epg.112114.xyz/?ch={name}",
+ }],
 //-------------------------------------------------------------解析地址--------------------------------------------------------------------\\
   "parses": [{
     "name": "聚合",
