@@ -148,7 +148,7 @@
       "ua": ""
     },
     {
-      "name": "MKV",
+      "name": "视频",
       "type": 0,
       "url": "https://agit.ai/lengniuge/api/raw/branch/master/mkv.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}",
@@ -381,5 +381,5 @@
   }],
   //-------------------------------------------------------------jar壁纸--------------------------------------------------------------------\\
   "wallpaper": "https://tuapi.eees.cc/api.php?category=biying&type=302",
-  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/custom_spider.jar;md5;1d6994a4a39ca10ec37a3936e5cad909"
+  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/custom_spider.jar;md5;a420c6cc18e20d8eff5bafdada357669"
 }
