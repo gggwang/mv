@@ -26,6 +26,16 @@
     "ext": "https://agit.ai/lengniuge/api/raw/branch/master/fm_jiaoyu.json"
   },
   {
+    "key": "Bili_ertong",
+    "name": "儿童",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/fm_ertong.json"
+  },
+  {
     "key": "csp_xBPQ_皮皮泡",
     "name": "皮皮泡",
     "type": 3,
