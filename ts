@@ -288,6 +288,16 @@
     "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt"
   },
   {
+    "key": "Upso",
+    "name": "云搜",
+    "type": "3",
+    "api": "csp_Upso",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt"
+  },
+  {
     "key": "YiSo",
     "name": "易搜",
     "type": "3",
