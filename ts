@@ -99,7 +99,7 @@
     "filterable": "1",
     "ext": "b2e573ff040fcd54b50475660ee1a7d1"
   },
-  //{
+  {
     "key": "Czsapp",
     "name": "厂长",
     "type": "3",
