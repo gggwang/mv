@@ -47,8 +47,8 @@
     "jar": "https://agit.ai/lengniuge/api/raw/branch/master/1110.jar"
   },
   {
-    "key": "csp_xmm_猫咪",
-    "name": "小猫咪",
+    "key": "csp_xmm_小猫咪",
+    "name": "猫咪",
     "type": 1,
     "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
     "searchable": 1,
@@ -56,7 +56,7 @@
     "filterable": 1,
     "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
   },
-  {
+  //{
     "key": "csp_dzyz_多多",
     "name": "多多",
     "type": 1,
