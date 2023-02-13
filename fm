@@ -1,127 +1,57 @@
 ﻿//-------------------------------------------------------------Sp和Xp---------------------------------------------------------------\\
 {
   "sites": [{
-    "key": "T4",
+    "key": "dr_豆瓣",
     "name": "豆瓣",
     "type": 4,
-    "api": "http://t4.ganggang.live:3812/vod",
-    "searchable": 1,
-    "quickSearch": 1,
+    "api": "http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy",
+    "searchable": 0,
+    "quickSearch": 0,
     "filterable": 0
   },
   {
-    "key": "Bili_fm",
-    "name": "哔哩",
+    "key": "csp_360_360",
+    "name": "360",
     "type": 3,
-    "api": "csp_Bili",
-    "searchable": 1,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/fm_bili.json"
-  },
-  {
-    "key": "Bili_jiaoyu",
-    "name": "教育",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 1,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/fm_jiaoyu.json"
-  },
-  {
-    "key": "Bili_ertong",
-    "name": "儿童",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/fm_ertong.json"
-  },
-  {
-    "key": "csp_xBPQ_诺讯影视",
-    "name": "诺讯",
-    "type": 3,
-    "api": "csp_xBPQ",
+    "api": "csp_SP360",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/nunxun.json",
-    "jar": "https://agit.ai/lengniuge/api/raw/branch/master/1110.jar"
+    "filterable": 1,
+    "jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
+  },
+  {
+    "key": "csp_xpg_小苹果",
+    "name": "苹果",
+    "type": 3,
+    "api": "csp_LiteApple",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
   },
   {
     "key": "csp_xmm_小猫咪",
     "name": "猫咪",
     "type": 1,
     "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+    "playUrl": "https://yun.nunxun.com/?url=",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]
- },
- {
-    "key": "AList",
-    "name": "AList",
-    "type": 3,
-    "api": "csp_AList",
-    "searchable": 1,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/fm_alist.json"
+    "categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "番剧（B站）", "国创（B站）", "电影（B站）", "电视剧（B站）", "剧情片"]
   },
   {
-    "key": "泥巴",
-    "name": "泥巴(VPN)",
-    "type": 3,
-    "api": "csp_Nbys",
+    "key": "csp_xml_诺迅资源",
+    "name": "诺迅",
+    "type": 1,
+    "api": "https://caiji.nxflv.com/api.php/provide/vod/",
+    "playUrl": "https://yun.nunxun.com/?url=",
     "searchable": 1,
-    "filterable": 1
+    "quickSearch": 1,
+    "filterable": 1,
+    "categories": ["国产剧", "港台剧", "日韩剧", "欧美剧", "综艺频道", "动漫频道", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "战争片", "纪录片", "恐怖片"]
   },
-  {
-    "key": "櫻花",
-    "name": "櫻花",
-    "type": 3,
-    "api": "csp_Ying",
-    "searchable": 1,
-    "filterable": 1
-  },
-  {
-    "key": "巴士",
-    "name": "巴士",
-    "type": 3,
-    "api": "csp_Dm84",
-    "searchable": 1,
-    "filterable": 1
-  },
-  {
-    "key": "異界",
-    "name": "異界",
-    "type": 3,
-    "api": "csp_Ysj",
-    "searchable": 1,
-    "filterable": 1
-  },
-  {
-    "key": "紙條",
-    "name": "紙條",
-    "type": 3,
-    "api": "csp_Paper",
-    "searchable": 1,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt"
-  },
-  {
-    "key": "易搜",
-    "name": "易搜",
-    "type": 3,
-    "api": "csp_YiSo",
-    "searchable": 1,
-    "filterable": 0,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt"
-  },
-  {
-    "key": "盤搜",
-    "name": "盤搜",
-    "type": 3,
-    "api": "csp_PanSou",
-    "searchable": 1,
-    "filterable": 0,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt"
-  },
+
   {
     "key": "push_agent",
     "name": "推送",
@@ -169,50 +99,6 @@
     "name": "轮询",
     "type": 2,
     "url": "Sequence"
-  },
-  {
-    "name": "Q1",
-    "type": 1,
-    "url": "https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=",
-    "ext": {
-       "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-       "header": {
-         "User-Agent": "Mozilla/5.0"
-      }
-    }
-  },
-  {
-    "name": "KY",
-    "type": 1,
-    "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-    "ext": {
-      "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-      "header": {
-        "User-Agent": "okhttp/4.1.0"
-      }
-    }
-  },
-  {
-    "name": "LG",
-    "type": 1,
-    "url": "http://s.lingutv.cn/?url=",
-    "ext": {
-      "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-      "header": {
-        "User-Agent": "okhttp/4.1.0"
-      }
-    }
-  },
-{
-    "name": "LL",
-    "type": 1,
-    "url": "http://lanlan.ckflv.cn/?url=",
-    "ext": {
-      "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-      "header": {
-        "User-Agent": "okhttp/4.1.0"
-      }
-    }
   },
 {
   "name": "NX",
