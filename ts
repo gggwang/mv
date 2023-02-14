@@ -1,15 +1,6 @@
 ﻿//--------------------------------------------------------------sp和xp----------------------------------------------------------------------\\
 {
   "sites": [{
-    "key": "T4",
-    "name": "豆瓣",
-    "type": 4,
-    "api": "http://t4.ganggang.live:3812/vod",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
-  },
-  {
     "key": "世界杯",
     "name": "一起看",
     "type": "3",
@@ -383,32 +374,10 @@
       }
     }
   },
-{
+  {
     "name": "ts2",
-    "type": 1,
-    "url": "https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=",
-    "ext": {
-      "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-      "header": {
-        "User-Agent": "okhttp/4.1.0"
-      }
-    }
-  },
-  {
-    "name": "ts3",
-    "type": 1,
-    "url": "https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url=",
-    "ext": {
-    "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-    "header": {
-    "User-Agent": "okhttp/4.1.0"
-      }
-    }
-  },
-  {
-    "name": "ts4",
-    "type": 1,
-    "url": "https://jx.bozrc.com:4433/player/?url=",
+    "type": 0,
+    "url": "https://jx.777jiexi.com/player/?url=",
     "ext": {
     "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
     "header": {
@@ -417,7 +386,7 @@
     }
   },
   {
-    "name": "ts5",
+    "name": "ts3",
     "type": 1,
     "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
   }],
@@ -583,5 +552,5 @@
   "ads": ["mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "mc.usihnbcq.cn", "mg.g1mm3d.cn", "mscs.svaeuzh.cn", "cnzz.hhttm.top", "tp.vinuxhome.com", "cnzz.mmstat.com", "www.baihuillq.com", "s23.cnzz.com", "z3.cnzz.com", "c.cnzz.com", "stj.v1vo.top", "z12.cnzz.com", "img.mosflower.cn", "tips.gamevvip.com", "ehwe.yhdtns.com", "xdn.cqqc3.com", "www.jixunkyy.cn", "sp.chemacid.cn", "hm.baidu.com", "s9.cnzz.com", "z6.cnzz.com", "um.cavuc.com", "mav.mavuz.com", "wofwk.aoidf3.com", "z5.cnzz.com", "xc.hubeijieshikj.cn", "tj.tianwenhu.com", "xg.gars57.cn", "k.jinxiuzhilv.com", "cdn.bootcss.com", "ppl.xunzhuo123.com", "xomk.jiangjunmh.top", "img.xunzhuo123.com", "z1.cnzz.com", "s13.cnzz.com", "xg.huataisangao.cn", "z7.cnzz.com", "xg.huataisangao.cn", "z2.cnzz.com", "s96.cnzz.com", "q11.cnzz.com", "thy.dacedsfa.cn", "xg.whsbpw.cn", "s19.cnzz.com", "z8.cnzz.com", "s4.cnzz.com", "f5w.as12df.top", "ae01.alicdn.com", "www.92424.cn", "k.wudejia.com", "vivovip.mmszxc.top", "qiu.xixiqiu.com", "cdnjs.hnfenxun.com", "cms.qdwght.com"],
 //-------------------------------------------------------------jar壁纸--------------------------------------------------------------------\\
   "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
-  "spider": "img+https://hutool.ml/jar;md5;7573e5dee052b6b1661a0bc400f190cc"
+  "spider": "img+http://hutool.ml/jar;md5;ef2d242e59d6b8154c49429817ac2043"
 }
