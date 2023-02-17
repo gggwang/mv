@@ -21,16 +21,6 @@
     "playurl": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="
   },
   {
-    "key": "Gitcafe",
-    "name": "纸条",
-    "type": "3",
-    "api": "csp_Gitcafe",
-    "searchable": "1",
-    "quickSearch": "1",
-    "filterable": "1",
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt"
-  },
-  {
     "key": "push_agent",
     "name": "推送",
     "type": "3",
