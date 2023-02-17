@@ -1,17 +1,7 @@
 ﻿//--------------------------------------------------------------sp和xp----------------------------------------------------------------------\\
 {
   "sites": [
-   {
-    "key": "js_豆瓣",
-    "name": "豆瓣",
-    "type": 3,
-    "api": "http://id.ganggang.live:63/js/drpy.min.js",
-    "ext": "http://id.ganggang.live:63/js/js_drpy.js",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-   {
+{
     "key": "csp_app_源头",
     "name": "肥猫",
     "type": 1,
@@ -20,28 +10,6 @@
     "quickSearch": 1,
     "filterable": 1,
     "playurl": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="
-    "jar": "http://我不是.肥猫.love:63/Jar/panda230216.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"
-  },
-    {
-    "key": "csp_xpg_小苹果",
-    "name": "苹果",
-    "type": 3,
-    "api": "csp_LiteApple",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
-  },
-    {
-    "key": "csp_sp_龙门影视",
-    "name": "龙门",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "jar": "http://bt.hm.iqinu.com:32000/box/sub/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a",
-    "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"
   },
   {
     "key": "push_agent",
