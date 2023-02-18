@@ -1,13 +1,14 @@
 ﻿//-------------------------------------------------------------Sp和Xp---------------------------------------------------------------\\
 {
   "sites": [{
-    "key": "dr_豆瓣",
+    "key": "js豆瓣",
     "name": "豆瓣",
-    "type": 4,
-    "api": "http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy",
+    "type": 3,
+    "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
+    "ext": "http://ftyyy.tk/JS/js/drpy.js",
     "searchable": 0,
     "quickSearch": 0,
-    "filterable": 0
+    "filterable": 1
   },
   {
     "key": "csp_360_360",
@@ -278,5 +279,5 @@
   }],
   //-------------------------------------------------------------jar壁纸--------------------------------------------------------------------\\
   "wallpaper": "https://tuapi.eees.cc/api.php?category=biying&type=302",
-  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/fm_custom_spider.jar;md5;2060883055c8e0ca5e7bb45d824eafa4"
+  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/fm_custom_spider.jar;md5;798306224186a353374b7bbaed582bde"
 }
