@@ -76,6 +76,7 @@
       "type": 0,
       "url": "https://agit.ai/lengniuge/api/raw/branch/master/live.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
       "ua": ""
     },
     {
@@ -83,6 +84,7 @@
       "type": 0,
       "url": "https://agit.ai/lengniuge/api/raw/branch/master/mkv.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
       "ua": ""
   }],
 //-------------------------------------------------------------解析地址--------------------------------------------------------------------\\
@@ -279,5 +281,5 @@
   }],
   //-------------------------------------------------------------jar壁纸--------------------------------------------------------------------\\
   "wallpaper": "https://tuapi.eees.cc/api.php?category=biying&type=302",
-  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/fm_custom_spider.jar;md5;798306224186a353374b7bbaed582bde"
+  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/fm_custom_spider.jar;md5;a8254c66a7166602df254825bfe78429"
 }
