@@ -1,5 +1,5 @@
 ﻿{
-    "spider": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/xo0203.jar;md5;4bd2275690262e2b338920201a674539",
+    "spider": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/xo0227.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
     "wallpaper": "https://picsum.photos/1920/1080/?blur=1",
     "lives": [{
         "group": "redirect",
@@ -107,6 +107,16 @@
         "filterable": 0
     },
     {
+    "key": "py_yixi",
+    "name": "一席(PY)",
+    "type": 3,
+    "api": "py_yixi",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_yixi.py"
+},
+    {
         "key": "py_libvio",
         "name": "Libvio(PY)",
         "type": 3,
@@ -116,6 +126,107 @@
         "filterable": 1,
         "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_libvio.py"
     },
+    {
+    "key": "py_3qu",
+    "name": "快播(PY)",
+    "type": 3,
+    "api": "py_3qu",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_3qu.py"
+},
+{
+    "key": "py_zxzj",
+    "name": "在线(PY)",
+    "type": 3,
+    "api": "py_zxzj",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_zxzj.py"
+},
+{
+    "key": "py_bili",
+    "name": "哔哩(PY)",
+    "type": 3,
+    "api": "py_bilibili",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_bilibili.py"
+},
+{
+    "key": "py_voflix",
+    "name": "Voflix(PY)",
+    "type": 3,
+    "api": "py_voflix",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_voflix.py"
+},
+{
+    "key": "py_gimytv",
+    "name": "GimyTV(PY)",
+    "type": 3,
+    "api": "py_gimytv",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_gimytv.py"
+},
+{
+    "key": "py_qie",
+    "name": "QE体育(PY)",
+    "type": 3,
+    "api": "py_qie",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_qie.py"
+},
+{
+    "key": "py_lezhu",
+    "name": "乐猪(PY)",
+    "type": 3,
+    "api": "py_lezhu",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_lezhu.py"
+},
+{
+    "key": "py_star",
+    "name": "星光(PY)",
+    "type": 3,
+    "api": "py_star",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_star.py"
+},
+{
+    "key": "py_genmov",
+    "name": "跟剧(PY)",
+    "type": 3,
+    "api": "py_genmov",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_genmov.py"
+},
+{
+    "key": "py_cokemv",
+    "name": "COKEMV(PY)",
+    "type": 3,
+    "api": "py_cokemv",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_cokemv.py",
+    "playerType": 1
+},
     {
         "key": "py_kuyun77",
         "name": "鲲鱼(PY)",
@@ -127,6 +238,56 @@
         "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_kunyu77.py"
     },
     {
+    "key": "py_czspp",
+    "name": "厂长(PY)",
+    "type": 3,
+    "api": "py_czspp",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_czspp.py"
+},
+{
+    "key": "py_cyys",
+    "name": "创意(PY)",
+    "type": 3,
+    "api": "py_cyys",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_cyys.py"
+},
+{
+    "key": "py_xmaomi",
+    "name": "猫咪(PY)",
+    "type": 3,
+    "api": "py_xmaomi",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_xmaomi.py"
+},
+{
+    "key": "py_jubaibai",
+    "name": "剧白(PY)",
+    "type": 3,
+    "api": "py_jubaibai",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_jubaibai.py"
+},
+{
+    "key": "py_555dy",
+    "name": "555(PY)",
+    "type": 3,
+    "api": "py_555dy",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_555dy.py"
+},
+    {
         "key": "py_cctv_full",
         "name": "央视(PY)",
         "type": 3,
@@ -136,6 +297,46 @@
         "filterable": 1,
         "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_cctv_full.py"
     },
+    {
+    "key": "py_gitcafe",
+    "name": "小纸条(PY)",
+    "type": 3,
+    "api": "py_gitcafe",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_gitcafe.py"
+},
+{
+    "key": "py_zhaozy",
+    "name": "找资源(PY)",
+    "type": 3,
+    "api": "py_zhaozy",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_zhaozy.py"
+},
+{
+    "key": "py_yiso",
+    "name": "易搜(PY)",
+    "type": 3,
+    "api": "py_yiso",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_yiso.py"
+},
+{
+    "key": "py_pansou",
+    "name": "盘搜(PY)",
+    "type": 3,
+    "api": "py_pansou",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_pansou.py"
+},
     {
         "key": "py_ali",
         "name": "推送",
