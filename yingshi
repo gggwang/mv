@@ -2,7 +2,7 @@
 {
   "sites": [{
     "key": "drpy_js_豆瓣",
-    "name": "豆瓣",
+    "name": "豆瓣┃此接口完全免费，请勿相信视频中任何广告，切勿付费购买此接口。",
     "type": 3,
     "api": "https://agit.ai/lengniuge/js/raw/branch/master/drpy2.min.js",
     "ext": "https://agit.ai/lengniuge/js/raw/branch/master/drpy.js",
