@@ -9,26 +9,8 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0
-  },
-  {
-    "key": "csp_app_源头",
-    "name": "采集┃肥猫",
-    "type": 1,q2	
-    "api": "http://我是.肥猫.love:63/api.php/provide/vod/",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-  },
-  {
-    "key": "csp_sp_龙门影视",
-    "name": "推荐┃龙门",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod/",
-  },
+  }
+
   {
     "key": "csp_xpg_小苹果",
     "name": "爬虫┃苹果",
@@ -92,126 +74,6 @@
     "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫"]
   },
   {
-    "key": "cps_bl_相声小品",
-    "name": "哔哩┃相声小品",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://www.looo.top/app/json/相声小品.json"
-  },
-  {
-    "key": "cps_bl_戏曲杂苑",
-    "name": "哔哩┃戏曲杂苑",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://www.looo.top/app/json/戏曲杂苑.json"
-  },
-  {
-    "key": "cps_bl_儿童乐园",
-    "name": "哔哩┃儿童乐园",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "https://www.looo.top/app/json/儿童乐园.json"
-  },
-  {
-    "key": "cps_bl_学习园地",
-    "name": "哔哩┃学习园地",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "https://www.looo.top/app/json/学习园地.json"
-  },
-  {
-    "key": "cps_bl_美食合集",
-    "name": "哔哩┃美食合集",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "https://www.looo.top/app/json/美食合集.json"
-  },
-  {
-    "key": "cps_bl_音乐现场",
-    "name": "哔哩┃音乐现场",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "https://www.looo.top/app/json/音乐现场.json"
-  },
-  {
-    "key": "cps_bl_音乐现场",
-    "name": "哔哩┃女团热舞",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "https://www.looo.top/app/json/女团热舞.json"
-  },
-  {
-    "key": "cps_bl_教程合集",
-    "name": "哔哩┃软件教程",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://www.looo.top/app/json/教程合集.json"
-  },
-  {
-    "key": "cps_bl_体育赛事",
-    "name": "哔哩┃体育赛事",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "https://www.looo.top/app/json/体育赛事.json"
-  },
-  {
-    "key": "cps_bl_棋牌娱乐",
-    "name": "哔哩┃棋牌娱乐",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "https://www.looo.top/app/json/棋牌娱乐.json"
-  },
-  {
-    "key": "cps_bl_美食天地",
-    "name": "哔哩┃美食天地",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "https://www.looo.top/app/json/美食天地.json"
-  },
-  {
-    "key": "cps_bl_哔哩哔哩",
-    "name": "哔哩┃哔哩综合",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://www.looo.top/app/json/哔哩哔哩.json"
-  },
-  {
     "key": "櫻花",
     "name": "动漫┃櫻花",
     "type": 3,
@@ -237,16 +99,6 @@
     "searchable": 1,
     "filterable": 1,
     "switchable": 1
-  },
-  {
-    "key": "csp_sp_Alist",
-    "name": "网盘┃网盘合集",
-    "type": 3,
-    "api": "csp_AList",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0,
-    "ext": "https://www.looo.top/app/json/AlistNew.json"
   },
   {
     "key": "紙條",
