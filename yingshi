@@ -138,7 +138,7 @@
     "searchable": 1,
     "filterable": 1,
     "switchable": 0,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
+    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"
   },
   {
     "key": "易搜",
@@ -148,7 +148,7 @@
     "searchable": 1,
     "filterable": 0,
     "switchable": 0,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
+    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"
   },
   {
     "key": "盤搜",
@@ -158,7 +158,7 @@
     "searchable": 1,
     "filterable": 0,
     "switchable": 0,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
+    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"
   },
   {
     "key": "UP雲搜",
@@ -168,7 +168,7 @@
     "searchable": 1,
     "filterable": 0,
     "switchable": 0,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
+    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"
   },
   {
     "key": "找資源",
@@ -178,7 +178,7 @@
     "searchable": 1,
     "filterable": 0,
     "switchable": 0,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
+    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"
   },
   {
     "key": "Live",
@@ -198,7 +198,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
+    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"
   }],
   //-------------------------------------------------------------电视直播--------------------------------------------------------------------\\
   "lives": [{
