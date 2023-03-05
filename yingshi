@@ -46,7 +46,7 @@
     "name": "推荐┃肥猫",
     "type": 1,
     "api": "http://我是.肥猫.love:63/api.php/provide/vod/",
-    "playUrl": "https://jx.json.vin/dp/?url=",
+    "playUrl": "",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
