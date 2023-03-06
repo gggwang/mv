@@ -183,15 +183,6 @@
     "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
   },
   {
-    "key": "泥巴",
-    "name": "外网┃泥巴(VPN)",
-    "type": 3,
-    "api": "csp_Nbys",
-    "searchable": 1,
-    "filterable": 1,
-    "switchable": 1
-  },
-  {
     "key": "櫻花",
     "name": "动漫┃櫻花",
     "type": 3,
@@ -266,7 +257,7 @@
     "searchable": 1,
     "filterable": 0,
     "switchable": 0,
-    "ext": "http://ali.饭太硬.ml/alitoken$$$lengniuge$$$abcd1234"
+    "ext": "http://ali.饭太硬.ml/alitoken$$$lengniuge$$$snzzy2023"
   },
   {
     "key": "Live",
