@@ -1,4 +1,12 @@
-﻿"lives": [{
+﻿{
+//档案---------------------------------------------------------------------------------------------------------------------------------
+  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/custom_spider.jar;md5;3ee59ed8249427d5c0e6c114f566f9a9",
+ // "spider": "https://agit.ai/lengniuge/api/raw/branch/master/fm_custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a",
+  "warningText": "此接口完全免费，请勿相信视频中任何广告，切勿付费购买此接口。",
+//壁纸---------------------------------------------------------------------------------------------------------------------------------
+  "wallpaper": "http://lengniuge.eu.org/bing.php",
+//直播---------------------------------------------------------------------------------------------------------------------------------
+  "lives": [{
     "group": "redirect",
     "channels": [{
       "name": "live",
@@ -34,24 +42,14 @@
     "filterable": 1
   },
   {
-    "key": "csp_Kunyu77",
-    "name": "推荐┃鲲鱼",
-    "type": 3,
-    "api": "csp_Kunyu77",
+    "key": "csp_app_源头",
+    "name": "推荐┃肥猫",
+    "type": 1,
+    "api": "http://我是.肥猫.love:63/api.php/provide/vod/",
+    "playUrl": "",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1,
-    "jar": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5"
-  },
-  {
-    "key": "csp_xpg_小苹果",
-    "name": "推荐┃苹果",
-    "type": 3,
-    "api": "csp_LiteApple",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
+    "filterable": 1
   },
   {
     "key": "csp_kuaikan",
@@ -62,6 +60,26 @@
     "quickSearch": 1,
     "filterable": 1,
     "jar": "http://我不是.肥猫.love:63/Jar/panda230305.jar;md5;C7A548F950E99C50A3465918F2AAB475"
+  },
+  {
+    "key": "csp_Kunyu77",
+    "name": "推荐┃鲲鱼",
+    "type": 3,
+    "api": "csp_Kunyu77",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
+  },
+  {
+    "key": "csp_xpg_小苹果",
+    "name": "推荐┃苹果",
+    "type": 3,
+    "api": "csp_LiteApple",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
   },
   {
     "key": "csp_xml_非凡采集",
@@ -281,7 +299,7 @@
   },
   {
     "key": "说明2",
-    "name": "http://lengniuge.eu.org",
+    "name": "http://lengniuge.ga",
     "type": 3,
     "api": "",
     "searchable": 0,
