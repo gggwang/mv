@@ -42,26 +42,6 @@
     "filterable": 1
   },
   {
-    "key": "csp_app_源头",
-    "name": "推荐┃肥猫",
-    "type": 1,
-    "api": "http://我是.肥猫.love:63/api.php/provide/vod/",
-    "playUrl": "",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
-  {
-    "key": "csp_kuaikan",
-    "name": "推荐┃快看",
-    "type": 3,
-    "api": "csp_Kuaikan",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "jar": "http://我不是.肥猫.love:63/Jar/panda230305.jar;md5;C7A548F950E99C50A3465918F2AAB475"
-  },
-  {
     "key": "csp_Kunyu77",
     "name": "推荐┃鲲鱼",
     "type": 3,
@@ -69,7 +49,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
+    "jar": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5"
   },
   {
     "key": "csp_xpg_小苹果",
@@ -80,6 +60,16 @@
     "quickSearch": 1,
     "filterable": 1,
     "jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
+  },
+  {
+    "key": "csp_kuaikan",
+    "name": "推荐┃快看",
+    "type": 3,
+    "api": "csp_Kuaikan",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar": "http://我不是.肥猫.love:63/Jar/panda230305.jar;md5;C7A548F950E99C50A3465918F2AAB475"
   },
   {
     "key": "csp_xml_非凡采集",
@@ -299,7 +289,7 @@
   },
   {
     "key": "说明2",
-    "name": "http://lengniuge.ga",
+    "name": "http://lengniuge.eu.org",
     "type": 3,
     "api": "",
     "searchable": 0,
