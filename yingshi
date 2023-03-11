@@ -1,6 +1,6 @@
 ﻿{
 //档案---------------------------------------------------------------------------------------------------------------------------------
-  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/fm_custom_spider.jar;md5;a25f65d9985736693258d27a77386ac5",
+  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/fm_custom_spider.jar;md5;cd0e21fc175ab24e9f754ec27ee15f27",
   "warningText": "此接口完全免费，请勿相信视频中任何广告，切勿付费购买此接口。",
 //壁纸---------------------------------------------------------------------------------------------------------------------------------
   "wallpaper": "http://lengniuge.eu.org/bing.php",
@@ -330,7 +330,6 @@
       }
     }
   },
-
   {
     "name": "7i",
     "type": 0,
