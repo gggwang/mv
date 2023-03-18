@@ -1,6 +1,6 @@
 ﻿{
 //档案---------------------------------------------------------------------------------------------------------------------------------
-  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/fm_custom_spider.jar;md5;ed850893fd0c94513677e7b98cc741a8",
+  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/fm_custom_spider.jar;md5;ac115573e4f120c68c0702f89150dbf3",
   "warningText": "此接口完全免费，请勿相信视频中任何广告，切勿付费购买此接口。",
 //壁纸---------------------------------------------------------------------------------------------------------------------------------
   "wallpaper": "http://lengniuge.eu.org/bing.php",
@@ -160,16 +160,6 @@
     "filterable": 1,
     "switchable": 0,
     "ext": "https://agit.ai/lengniuge/api/raw/branch/master/Bili"
-  },
-  {
-    "key": "AList",
-    "name": "网盘┃AList",
-    "type": 3,
-    "api": "csp_AList",
-    "searchable": 1,
-    "filterable": 1,
-    "switchable": 0,
-    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
   },
   {
     "key": "櫻花",
