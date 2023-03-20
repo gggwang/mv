@@ -244,7 +244,7 @@
     "type": 3,
     "playerType": 1,
     "api": "https://agit.ai/lengniuge/js/raw/branch/master/直播转点播.js",
-    "ext": "电视$https://agit.ai/lengniuge/api/raw/branch/master/live.m3u#直播$https://agit.ai/lengniuge/api/raw/branch/master/live.txt#音频$https://agit.ai/lengniuge/api/raw/branch/master/mkv.m3u&&&https://agit.ai/lengniuge/api/raw/branch/master/logo.png"
+    "ext": "电视$https://agit.ai/lengniuge/api/raw/branch/master/live.txt#直播$https://agit.ai/lengniuge/api/raw/branch/master/live.m3u#音频$https://agit.ai/lengniuge/api/raw/branch/master/mkv.m3u&&&https://agit.ai/lengniuge/api/raw/branch/master/logo.png"
   },
   {
     "key": "Live",
