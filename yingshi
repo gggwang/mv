@@ -239,6 +239,14 @@
     "ext": "https://yydsys.top/duo/ali/token.txt$$$lengniuge$$$snzzy2023"
   },
   {
+    "key": "直播",
+    "name": "电视┃直播",
+    "type": 3,
+    "playerType": 1,
+    "api": "https://agit.ai/lengniuge/js/raw/branch/master/直播转点播.js",
+    "ext": "电视$https://agit.ai/lengniuge/api/raw/branch/master/live.m3u#直播$https://agit.ai/lengniuge/api/raw/branch/master/live.txt#音频$https://agit.ai/lengniuge/api/raw/branch/master/mkv.m3u&&&https://agit.ai/lengniuge/api/raw/branch/master/logo.png"
+  },
+  {
     "key": "Live",
     "name": "模式┃直播",
     "type": 3,
@@ -318,17 +326,6 @@
     //{"name":"Json并发","type":2,"url":"Parallel"}, 
     {"name":"Demo","type":3,"url":"Demo"},
     {"name":"Web","type":3,"url":"Web"},
-{
-    "name": "um",
-    "type": 1,
-    "url": "https://b.umkan.cc/API.php?url=",
-    "ext": {
-      "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视",  "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-      "header": {
-        "User-Agent": "okhttp/4.1.0"
-      }
-    }
-  },
   {
     "name": "7i",
     "type": 0,
