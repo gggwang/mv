@@ -1,6 +1,6 @@
 ﻿{
 //档案---------------------------------------------------------------------------------------------------------------------------------
-  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/fm_custom_spider.jar;md5;3473c6feb44308efdb18ef8ea90ed6eb",
+  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/fm_custom_spider.jar;md5;3b702732dd7f792513d3f3cf006f8898",
   "warningText": "此接口完全免费，请勿相信视频中任何广告，切勿付费购买此接口。",
 //壁纸---------------------------------------------------------------------------------------------------------------------------------
   "wallpaper": "https://epg.112114.xyz/bingimg",
@@ -68,7 +68,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "jar": "http://我不是.肥猫.love:63/Jar/panda230324.jar;md5;81BA64D08F05D0DBA8A7343221E5E2C4"
+    "jar": "http://我不是.肥猫.love:63/Jar/panda230328.jar;md5;E58AAE92A5D085B6DBEA452695FAEF5A"
   },
   {
     "key": "csp_xml_非凡采集",
@@ -331,17 +331,6 @@
     "name": "jr",
     "type": 0,
     "url": "https://jx.jsonplayer.com/player/?url=",
-    "ext": {
-      "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视",  "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-      "header": {
-        "User-Agent": "okhttp/4.1.0"
-      }
-    }
-  },
-  {
-    "name": "ct",
-    "type": 0,
-    "url": "https://jxdp.codermart.net/?url=",
     "ext": {
       "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视",  "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
       "header": {
