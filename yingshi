@@ -71,6 +71,28 @@
     "jar": "http://我不是.肥猫.love:63/Jar/panda230328.jar;md5;E58AAE92A5D085B6DBEA452695FAEF5A"
   },
   {
+    "key": "csp_xml_爱酷资源",
+    "name": "采集┃爱酷",
+    "type": 1,
+    "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
+    "playUrl": "",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "playerType":2 
+  },
+  {
+    "key": "csp_xml_可米资源",
+    "name": "采集┃可米",
+    "type": 1,
+    "api": "https://cj.kemi.lol/api.php/provide/vod/?ac=list",
+    "playUrl": "",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "playerType":2 
+  },
+  {
     "key": "csp_xml_非凡采集",
     "name": "采集┃非凡",
     "type": 1,
