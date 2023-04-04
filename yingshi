@@ -1,6 +1,6 @@
 ﻿{
 //档案---------------------------------------------------------------------------------------------------------------------------------
-  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/custom_spider.jar;md5;46f550f87ace39f5b51a4fa8737c7029",
+  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/custom_spider.jar;md5;9dad9b968f26436fc4e681d0dc372d55",
   "warningText": "此接口完全免费，请勿相信视频中任何广告，切勿付费购买此接口。",
 //壁纸---------------------------------------------------------------------------------------------------------------------------------
   "wallpaper": "https://epg.112114.xyz/bingimg",
@@ -145,7 +145,6 @@
     "key": "直播",
     "name": "电视┃直播",
     "type": 3,
-    "playerType": 1,
     "api": "https://agit.ai/lengniuge/js/raw/branch/master/直播转点播.js",
     "ext": "电视$https://agit.ai/lengniuge/api/raw/branch/master/live.txt#直播$https://agit.ai/lengniuge/api/raw/branch/master/live.m3u#音频$https://agit.ai/lengniuge/api/raw/branch/master/mkv.m3u&&&https://agit.ai/lengniuge/api/raw/branch/master/logo.png"
   },
