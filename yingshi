@@ -1,6 +1,6 @@
 ﻿{
 //档案---------------------------------------------------------------------------------------------------------------------------------
-  "spider": "https://agit.ai/lengniuge/api/raw/branch/master/custom_spider.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a",
+  "spider": "./api/raw/branch/master/custom_spider.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a",
   "warningText": "此接口完全免费，请勿相信视频中任何广告，切勿付费购买此接口。",
 //壁纸---------------------------------------------------------------------------------------------------------------------------------
   "wallpaper": "https://epg.112114.xyz/bingimg",
@@ -15,7 +15,7 @@
   {
     "name": "直播",
     "type": 0,
-    "url": "https://agit.ai/lengniuge/api/raw/branch/master/live.m3u",
+    "url": "./api/raw/branch/master/live.m3u",
     "epg": "https://epg.112114.xyz/?ch={name}",
     "logo": "https://epg.112114.xyz/logo/{name}.png",
     "ua": "Mozilla/5.0(Windows NT 10.0; Win64; x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36"
@@ -23,7 +23,7 @@
   {
     "name": "音频",
     "type": 0,
-    "url": "https://agit.ai/lengniuge/api/raw/branch/master/mkv.m3u",
+    "url": "./api/raw/branch/master/mkv.m3u",
     "epg": "https://epg.112114.xyz/?ch={name}",
     "logo": "https://epg.112114.xyz/logo/{name}.png",
     "ua": "Mozilla/5.0(Windows NT 10.0; Win64; x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36"
@@ -34,8 +34,8 @@
     "key": "drpy_js_豆瓣",
     "name": "豆瓣┃此接口完全免费，请勿相信视频中任何广告，切勿付费购买此接口。",
     "type": 3,
-    "api": "https://agit.ai/lengniuge/js/raw/branch/master/drpy2.min.js",
-    "ext": "https://agit.ai/lengniuge/js/raw/branch/master/drpy.js",
+    "api": "./js/raw/branch/master/drpy2.min.js",
+    "ext": "./js/raw/branch/master/drpy.js",
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1
@@ -90,63 +90,63 @@
     "searchable": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/duboku"
+    "ext": "./api/raw/branch/master/duboku"
   },
   {
     "key": "drpy_js_360影视",
     "name": "360┃官源",
     "type": 3,
-    "api": "https://agit.ai/lengniuge/js/raw/branch/master/drpy2.min.js",
-    "ext": "https://agit.ai/lengniuge/js/raw/branch/master/360影视.js"
+    "api": "./js/raw/branch/master/drpy2.min.js",
+    "ext": "./js/raw/branch/master/360影视.js"
   },
   {
     "key": "drpy_js_奇珍异兽",
     "name": "奇艺┃官源",
     "type": 3,
-    "api": "https://agit.ai/lengniuge/js/raw/branch/master/drpy2.min.js",
-    "ext": "https://agit.ai/lengniuge/js/raw/branch/master/奇珍异兽.js"
+    "api": "./js/raw/branch/master/drpy2.min.js",
+    "ext": "./js/raw/branch/master/奇珍异兽.js"
   },
   {
     "key": "drpy_js_优酷",
     "name": "优酷┃官源",
     "type": 3,
-    "api": "https://agit.ai/lengniuge/js/raw/branch/master/drpy2.min.js",
-    "ext": "https://agit.ai/lengniuge/js/raw/branch/master/优酷.js"
+    "api": "./js/raw/branch/master/drpy2.min.js",
+    "ext": "./js/raw/branch/master/优酷.js"
   },
   {
     "key": "drpy_js_腾云驾雾",
     "name": "企鹅┃官源",
     "type": 3,
-    "api": "https://agit.ai/lengniuge/js/raw/branch/master/drpy2.min.js",
-    "ext": "https://agit.ai/lengniuge/js/raw/branch/master/腾云驾雾.js"
+    "api": "./js/raw/branch/master/drpy2.min.js",
+    "ext": "./js/raw/branch/master/腾云驾雾.js"
   },
   {
     "key": "drpy_js_百忙无果",
     "name": "芒果┃官源",
     "type": 3,
-    "api": "https://agit.ai/lengniuge/js/raw/branch/master/drpy2.min.js",
-    "ext": "https://agit.ai/lengniuge/js/raw/branch/master/百忙无果.js"
+    "api": "./js/raw/branch/master/drpy2.min.js",
+    "ext": "./js/raw/branch/master/百忙无果.js"
   },
   {
     "key": "drpy_js_菜狗",
     "name": "搜狗┃官源",
     "type": 3,
-    "api": "https://agit.ai/lengniuge/js/raw/branch/master/drpy2.min.js",
-    "ext": "https://agit.ai/lengniuge/js/raw/branch/master/菜狗.js"
+    "api": "./js/raw/branch/master/drpy2.min.js",
+    "ext": "./js/raw/branch/master/菜狗.js"
   },
   {
     "key": "drpy_js_农民影视",
     "name": "切片┃农民",
     "type": 3,
-    "api": "https://agit.ai/lengniuge/js/raw/branch/master/drpy2.min.js",
-    "ext": "https://agit.ai/lengniuge/js/raw/branch/master/农民影视.js"
+    "api": "./js/raw/branch/master/drpy2.min.js",
+    "ext": "./js/raw/branch/master/农民影视.js"
   },
   {
     "key": "直播",
     "name": "电视┃直播",
     "type": 3,
-    "api": "https://agit.ai/lengniuge/js/raw/branch/master/直播转点播.js",
-    "ext": "电视$https://agit.ai/lengniuge/api/raw/branch/master/live.txt#直播$https://agit.ai/lengniuge/api/raw/branch/master/live.m3u#音频$https://agit.ai/lengniuge/api/raw/branch/master/mkv.m3u&&&https://agit.ai/lengniuge/api/raw/branch/master/logo.png"
+    "api": "./js/raw/branch/master/直播转点播.js",
+    "ext": "电视$./api/raw/branch/master/live.txt#直播$./api/raw/branch/master/live.m3u#音频$./api/raw/branch/master/mkv.m3u&&&./api/raw/branch/master/logo.png"
   },
   {
     "key": "Bili_fm",
@@ -156,7 +156,7 @@
     "searchable": 1,
     "filterable": 1,
     "switchable": 0,
-    "ext": "https://agit.ai/lengniuge/api/raw/branch/master/Bili"
+    "ext": "./api/raw/branch/master/Bili"
   },
   {
     "key": "櫻花",
@@ -193,7 +193,7 @@
     "searchable": 1,
     "filterable": 1,
     "switchable": 0,
-    "ext": "https://yydsys.top/duo/ali/token.txt"
+    "ext": "风靡影視Apk天下第一"
   },
   {
     "key": "易搜",
@@ -203,7 +203,7 @@
     "searchable": 1,
     "filterable": 0,
     "switchable": 0,
-    "ext": "https://yydsys.top/duo/ali/token.txt"
+    "ext": "风靡影視Apk天下第一"
   },
   {
     "key": "盤搜",
@@ -213,7 +213,7 @@
     "searchable": 1,
     "filterable": 0,
     "switchable": 0,
-    "ext": "https://yydsys.top/duo/ali/token.txt"
+    "ext": "风靡影視Apk天下第一"
   },
   {
     "key": "UP雲搜",
@@ -223,7 +223,7 @@
     "searchable": 1,
     "filterable": 0,
     "switchable": 0,
-    "ext": "https://yydsys.top/duo/ali/token.txt"
+    "ext": "风靡影視Apk天下第一"
   },
   {
     "key": "找資源",
@@ -233,7 +233,7 @@
     "searchable": 1,
     "filterable": 0,
     "switchable": 0,
-    "ext": "https://yydsys.top/duo/ali/token.txt$$$lengniuge$$$snzzy2023"
+    "ext": "http://ali.饭太硬.ml/alitoken$$$lengniuge$$$snzzy2023"
   },
   {
     "key": "push_agent",
@@ -243,7 +243,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://yydsys.top/duo/ali/token.txt"
+    "ext": "风靡影視Apk天下第一"
   },
   {
     "key": "公告",
