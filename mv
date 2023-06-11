@@ -14,10 +14,9 @@
     "key": "直播转点播",
     "name": "MV",
     "type": 3,
-    "api": "https://agit.ai/lengniuge/mv/raw/branch/master/mv.js",
+    "api": "https://agit.ai/lengniuge/mv/raw/branch/master/直播转点播.js",
     "ext": "https://agit.ai/lengniuge/mv/raw/branch/master/mv.json"
 },
-{"key": "直播转点播","name":"🐼️┃电视┃直播","type": 3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"https://agit.ai/lengniuge/mv/raw/branch/master/mv.json"},
 {
     "key": "小苹果",
     "name": "苹果",
