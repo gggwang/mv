@@ -11,13 +11,6 @@
     "filterable": 1
 },
 {
-    "key": "直播转点播",
-    "name": "MV",
-    "type": 3,
-    "api": "https://agit.ai/lengniuge/mv/raw/branch/master/直播转点播.js",
-    "ext": "https://agit.ai/lengniuge/mv/raw/branch/master/mv.json"
-},
-{
     "key": "小苹果",
     "name": "苹果",
     "type": 3,
