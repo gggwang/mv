@@ -6,8 +6,8 @@
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
 
-#听歌
-https://www.youtube.com/watch?v=9QZB4y6Aroo&pp=ygUG5oqW6Z-z
+#直播
+https://agit.ai/lengniuge/api/raw/branch/master/live.m3u
 #MV1
 https://agit.ai/lengniuge/mv/raw/branch/master/MV1.txt
 #MV2
