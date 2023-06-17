@@ -8,6 +8,8 @@
 
 #Live
 https://agit.ai/lengniuge/api/raw/branch/master/live.txt
+#YouTube
+https://agit.ai/lengniuge/api/raw/branch/master/YouTube.txt
 #MV1
 https://agit.ai/lengniuge/mv/raw/branch/master/MV1.txt
 #MV2
