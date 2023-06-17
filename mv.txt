@@ -8,8 +8,6 @@
 
 #Live
 https://agit.ai/lengniuge/api/raw/branch/master/live.txt
-#Radio
-https://agit.ai/lengniuge/api/raw/branch/master/radio.m3u
 #MV1
 https://agit.ai/lengniuge/mv/raw/branch/master/MV1.txt
 #MV2
